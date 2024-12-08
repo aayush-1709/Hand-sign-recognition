@@ -1,5 +1,5 @@
 ## Hand-Sign-Detector
-A simple project using to collect image data and using teachable machine's trained model to test or check the predicted data.
+A simple project used to collect image data and using teachable machine's trained model to test or check the predicted data.
 
 
 ## Installation Steps
