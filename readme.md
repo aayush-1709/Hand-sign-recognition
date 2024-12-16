@@ -1,4 +1,4 @@
-## Hand-Sign-Detector
+## Image Detection System
 A simple project used to collect image data and using teachable machine's trained model to test or check the predicted data.
 Using tensorflow keras.models and cvzone to implement testing and collecting data.
 
