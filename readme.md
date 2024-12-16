@@ -1,6 +1,6 @@
 ## Hand-Sign-Detector
 A simple project used to collect image data and using teachable machine's trained model to test or check the predicted data.
-
+Using tensorflow keras.models and cvzone to implement testing and collecting data.
 
 ## Installation Steps
 1. create a conda environment with python=3.11 (`conda create -n img-recog-env python=3.11`)
